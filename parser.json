@@ -1,8 +1,7 @@
 {
+  "location": null,
+  "lang": "erlang",
   "url": "https://github.com/WhatsApp/tree-sitter-erlang",
   "semver": false,
-  "min_version": null,
-  "max_version": null,
-  "location": null,
-  "lang": "erlang"
+  "parser_version": "1d78195c4fbb1fc027eb3e4220427f1eb8bfc89e"
 }
